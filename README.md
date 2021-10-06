@@ -25,7 +25,6 @@ Obligatory BadgeFest:
 [![last commit][last-commit-badge-image]][last-commit-url]
 [![types][types-badge-image]][types-url]
 [![install size][install-size-badge-image]][install-size-url]
-[![lines of code][lines-of-code-badge-image]][lines-of-code-url]
 [![code style: prettier][prettier-badge-image]][prettier-url]
 [![license][license-badge-image]][license-url]
 
