@@ -1,0 +1,22 @@
+{
+	"root": true,
+	"parser": "@typescript-eslint/parser",
+	"plugins": [
+		"@typescript-eslint"
+	],
+	"extends": [
+		"eslint:recommended",
+		"plugin:@typescript-eslint/eslint-recommended",
+		"plugin:@typescript-eslint/recommended"
+	],
+	"globals": {
+		"console": true,
+		"module": true,
+		"require": true
+	},
+	"rules": {
+		"no-case-declarations": "off",
+		"no-fallthrough": "off",
+		"@typescript-eslint/no-empty-function": "off"
+	}
+}
